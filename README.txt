@@ -12,7 +12,7 @@
  * Version 0.11
  * Tested on Omeka 1.2
  *
- * Todo 4.12.2010
+ * Todo 7.30.2010
  *
  * 1. Idenitfy a way to make datestamp of last update for exhibits, collections, categories
  *        more accurate
