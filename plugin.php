@@ -1,6 +1,6 @@
 <?php
 /* couldn't find Exhibit Object without including this statement on omeka 1.2 */
-require PLUGIN_DIR . '/ExhibitBuilder/models/Exhibit.php';
+// require PLUGIN_DIR . '/ExhibitBuilder/models/Exhibit.php';
 
 /* 
  * @copyright New York Metropolitan Library Council, 2010
